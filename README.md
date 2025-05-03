@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/browsercat-browsercat-mcp-server-badge.png)](https://mseep.ai/app/browsercat-browsercat-mcp-server)
+
 # BrowserCat MCP Server
 
 A Model Context Protocol server that provides browser automation capabilities using BrowserCat's cloud browser service. This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment without needing to install browsers locally.
